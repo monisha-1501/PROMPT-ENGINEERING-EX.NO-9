@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 24/12/2025
+# Register no.: 25007487
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -31,8 +31,21 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
+First prompt:  Cinderella's boyfriend gifted a pair of shoe to her
 
-# Result: The Prompt of the above task executed successfully
+https://github.com/user-attachments/assets/bdc875d4-c4b0-4e0b-b03b-bd0d56e81632
+
+Second prompt: Cinderella's boyfriend wearing a gifted shoe in her feet
+
+https://github.com/user-attachments/assets/14b83f76-23c2-47e0-a577-4a629fe31085
+
+Third prompt: Cinderella admiring the shoe by sitting on the chair
+
+https://github.com/user-attachments/assets/b732a58e-c371-494a-855e-0044a089d10e
+
+# Result: 
+
+The Prompt of the above task executed successfully
 
 
 
